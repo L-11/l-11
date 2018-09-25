@@ -1,0 +1,7 @@
+{
+  "name": "l-11",
+  "private": true,
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	}
+}

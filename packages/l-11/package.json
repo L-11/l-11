@@ -1,0 +1,19 @@
+{
+  "name": "l-11",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-11/l-11.git"
+  },
+  "author": "L-elf Karlstein <lelfjior@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L-11/l-11/issues"
+  },
+  "homepage": "https://github.com/L-11/l-11#readme"
+}
